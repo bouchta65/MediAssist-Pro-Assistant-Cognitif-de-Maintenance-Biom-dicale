@@ -2,7 +2,8 @@ import re
 import json
 import mlflow
 
-mlflow.set_tracking_uri("http://localhost:5000")
+mlflow.set_tracking_uri("http://mlflow:5000")
+mlflow.set_experiment("Document_Chunking")
 
 
 def split_into_pages(text):
@@ -107,7 +108,7 @@ with mlflow.start_run(run_name="chunking_markdown"):
     max_words = 220
     mlflow.log_param("max_words", max_words)
     
-    with open("../../../data/output2.md", "r", encoding="utf-8") as f:
+    with open("data/output2.md", "r", encoding="utf-8") as f:
         text = f.read()
     
     chunks = chunk_markdown(text, max_words=max_words)
@@ -120,7 +121,7 @@ with mlflow.start_run(run_name="chunking_markdown"):
     mlflow.log_param("num_pages", num_pages)
     mlflow.log_param("avg_words_per_chunk", avg_words_per_chunk)
     
-    chunks_file = "../../../data/chunks.json"
+    chunks_file = "data/chunks.json"
     with open(chunks_file, "w", encoding="utf-8") as f:
         json.dump(chunks, f, ensure_ascii=False, indent=2)
     
