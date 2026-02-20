@@ -9,12 +9,10 @@ from app.api import auth, user, queries
 from app.core.config import settings
 from app.core.database import engine, Base
 
-# Create database tables
 Base.metadata.create_all(bind=engine)
 
 class NgrokCORSMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request: Request, call_next):
-        # Handle preflight OPTIONS requests
         if request.method == "OPTIONS":
             response = Response()
             response.headers["Access-Control-Allow-Origin"] = "*"
@@ -23,14 +21,11 @@ class NgrokCORSMiddleware(BaseHTTPMiddleware):
             response.headers["Access-Control-Allow-Credentials"] = "true"
             return response
         
-        # Handle actual requests
         try:
             response = await call_next(request)
         except Exception as e:
-            # Create error response with CORS headers
             response = Response(content=str(e), status_code=500)
         
-        # Always add CORS headers
         response.headers["Access-Control-Allow-Origin"] = "*"
         response.headers["Access-Control-Allow-Methods"] = "GET, POST, PUT, DELETE, OPTIONS"
         response.headers["Access-Control-Allow-Headers"] = "*"
@@ -43,16 +38,13 @@ app = FastAPI(
     description="Assistant Cognitif de Maintenance Biomédicale"
 )
 
-# Add custom CORS middleware for ngrok
 app.add_middleware(NgrokCORSMiddleware)
 
-# Add session middleware for OAuth
 app.add_middleware(
     SessionMiddleware, 
     secret_key=settings.SECRET_KEY
 )
 
-# CORS middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -61,7 +53,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Include routers
 app.include_router(auth.router)
 app.include_router(user.router)
 app.include_router(queries.router)

@@ -13,7 +13,6 @@ router = APIRouter(prefix="/api/auth", tags=["auth"])
 
 @router.get("/google")
 async def google_login(request: Request):
-    """Initiate Google OAuth login"""
     try:
         redirect_uri = settings.GOOGLE_REDIRECT_URI
         response = await google.authorize_redirect(request, redirect_uri)
@@ -24,23 +23,18 @@ async def google_login(request: Request):
 
 @router.get("/google/callback")
 async def google_callback(request: Request, db: Session = Depends(get_db)):
-    """Handle Google OAuth callback"""
     try:        
         token = await google.authorize_access_token(request)
         
         user_info = await get_google_user_info(request, token)
         
-        # Check if user exists by Google ID
         user = UserService.get_user_by_google_id(db, user_info['google_id'])
         
         if not user:
-            # Check if user exists by email
             user = UserService.get_user_by_email(db, user_info['email'])
             if user:
-                # Link Google account to existing user
                 user = UserService.link_google_account(db, user, user_info['google_id'])
             else:
-                # Create new user
                 user = UserService.create_oauth_user(db, user_info)
         
         access_token = AuthService.create_access_token(data={"sub": user.email})
@@ -58,7 +52,6 @@ async def google_callback(request: Request, db: Session = Depends(get_db)):
 
 @router.post("/register")
 async def register(email: str = Form(...), password: str = Form(...), username: str = Form(...), db: Session = Depends(get_db)):
-    """Register new user"""
     if UserService.get_user_by_email(db, email):
         raise HTTPException(status_code=400, detail="Email already registered")
     
@@ -81,7 +74,6 @@ async def register(email: str = Form(...), password: str = Form(...), username: 
 
 @router.post("/login", response_model=Token)
 async def login(email: str = Form(...), password: str = Form(...), db: Session = Depends(get_db)):
-    """Regular email/password login"""
     user = UserService.get_user_by_email(db, email)
     if not user or not UserService.verify_password(password, user.hashed_password):
         raise HTTPException(status_code=401, detail="Invalid credentials")
