@@ -1,0 +1,2546 @@
+[
+  {
+    "id": "table_chunk_0",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne une valeur qui n'a pas de sens.",
+    "cause": "La lampe du système émetteur de lumière est hors service.",
+    "solution": "Remplacer la lampe par une autre ayant les mêmes caractéristiques que la lampe d'origine.",
+    "content": "Problème: Le lecteur donne une valeur qui n'a pas de sens.\nCause probable: La lampe du système émetteur de lumière est hors service.\nSolution: Remplacer la lampe par une autre ayant les mêmes caractéristiques que la lampe d'origine.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_1",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs différentes d'une rangée à l'autre.",
+    "cause": "Les capteurs optiques sont sales.",
+    "solution": "Nettoyer les capteurs.",
+    "content": "Problème: Le lecteur donne des valeurs différentes d'une rangée à l'autre.\nCause probable: Les capteurs optiques sont sales.\nSolution: Nettoyer les capteurs.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_2",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs différentes d'une rangée à l'autre.",
+    "cause": "Les lentilles ou d'autres parties du système émetteur de lumière sont sales.",
+    "solution": "Nettoyer les lentilles du système émetteur de lumière.",
+    "content": "Problème: Le lecteur donne des valeurs différentes d'une rangée à l'autre.\nCause probable: Les lentilles ou d'autres parties du système émetteur de lumière sont sales.\nSolution: Nettoyer les lentilles du système émetteur de lumière.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_3",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Un ou plusieurs canaux ne sont pas étalonnés.",
+    "solution": "Vérifier l'étalonnage de chaque canal.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Un ou plusieurs canaux ne sont pas étalonnés.\nSolution: Vérifier l'étalonnage de chaque canal.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_4",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Réactifs périmés et/ou préparés de façon incorrecte.",
+    "solution": "Vérifier si la TMB est incolore et si la préparation est correcte.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Réactifs périmés et/ou préparés de façon incorrecte.\nSolution: Vérifier si la TMB est incolore et si la préparation est correcte.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_5",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Contamination par d'autres échantillons.",
+    "solution": "Répéter le test en vérifiant les étiquettes, le laveur de plaque et la façon dont la pipette a été utilisée.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Contamination par d'autres échantillons.\nSolution: Répéter le test en vérifiant les étiquettes, le laveur de plaque et la façon dont la pipette a été utilisée.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_6",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Filtre de longueur d'onde inadapté.",
+    "solution": "Vérifier la longueur d'onde recommandée pour le test. Corriger si elle est incorrecte.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Filtre de longueur d'onde inadapté.\nSolution: Vérifier la longueur d'onde recommandée pour le test. Corriger si elle est incorrecte.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_7",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Lavage insuffisant ou inefficace.",
+    "solution": "Vérifier la méthode de lavage. Utiliser un test approprié de contrôle de la qualité.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Lavage insuffisant ou inefficace.\nSolution: Vérifier la méthode de lavage. Utiliser un test approprié de contrôle de la qualité.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_8",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Incubation très longue ou à température trop élevée.",
+    "solution": "Vérifier la durée et la température d'incubation.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Incubation très longue ou à température trop élevée.\nSolution: Vérifier la durée et la température d'incubation.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_9",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Dilution incorrecte de l'échantillon.",
+    "solution": "Vérifier la procédure de dilution de l'échantillon.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Dilution incorrecte de l'échantillon.\nSolution: Vérifier la procédure de dilution de l'échantillon.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_10",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Un réactif a été omis.",
+    "solution": "Vérifier que le test a été réalisé suivant la procédure établie.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Un réactif a été omis.\nSolution: Vérifier que le test a été réalisé suivant la procédure établie.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_11",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop élevées.",
+    "cause": "Incubation très courte ou à température trop basse.",
+    "solution": "Vérifier la durée et la température d'incubation.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop élevées.\nCause probable: Incubation très courte ou à température trop basse.\nSolution: Vérifier la durée et la température d'incubation.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_12",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Les réactifs n'étaient pas à température ambiante.",
+    "solution": "Laisser la température des réactifs s'équilibrer avec la température ambiante.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Les réactifs n'étaient pas à température ambiante.\nSolution: Laisser la température des réactifs s'équilibrer avec la température ambiante.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_13",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Lavage excessif de la plaque.",
+    "solution": "Ajuster la procédure de lavage en se conformant aux instructions du fabricant.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Lavage excessif de la plaque.\nSolution: Ajuster la procédure de lavage en se conformant aux instructions du fabricant.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_14",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Filtre de longueur d'onde inadapté.",
+    "solution": "Vérifier la longueur d'onde sélectionnée. Utiliser la longueur d'onde recommandée pour le test.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Filtre de longueur d'onde inadapté.\nSolution: Vérifier la longueur d'onde sélectionnée. Utiliser la longueur d'onde recommandée pour le test.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_15",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Réactifs périmés ou préparés de façon incorrecte.",
+    "solution": "Vérifier les réactifs utilisés. Tester les dilutions.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Réactifs périmés ou préparés de façon incorrecte.\nSolution: Vérifier les réactifs utilisés. Tester les dilutions.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_16",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Un réactif a été omis.",
+    "solution": "Vérifier que le test a été réalisé suivant la procédure établie.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Un réactif a été omis.\nSolution: Vérifier que le test a été réalisé suivant la procédure établie.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_17",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "La plaque présente des rayures au fond des puits.",
+    "solution": "Préparer une nouvelle plaque et refaire le test.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: La plaque présente des rayures au fond des puits.\nSolution: Préparer une nouvelle plaque et refaire le test.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_18",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Plaque mal choisie ou sale.",
+    "solution": "Vérifier le type de plaque utilisé. Préparer une nouvelle plaque et refaire le test.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Plaque mal choisie ou sale.\nSolution: Vérifier le type de plaque utilisé. Préparer une nouvelle plaque et refaire le test.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_19",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Les puits de la plaque ont séché.",
+    "solution": "Changer la façon de laver la plaque.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Les puits de la plaque ont séché.\nSolution: Changer la façon de laver la plaque.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_20",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "La plaque est mal installée dans le lecteur.",
+    "solution": "Vérifier le positionnement de la plaque. Refaire la lecture.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: La plaque est mal installée dans le lecteur.\nSolution: Vérifier le positionnement de la plaque. Refaire la lecture.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_21",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Humidité ou traces de doigts sur le dessous de la plaque.",
+    "solution": "Vérifier que le dessous de la plaque est propre sous les puits.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Humidité ou traces de doigts sur le dessous de la plaque.\nSolution: Vérifier que le dessous de la plaque est propre sous les puits.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_22",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Il reste du tampon de lavage dans les puits avant d'ajouter le substrat.",
+    "solution": "Vérifier que le tampon de lavage est complètement éliminé.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Il reste du tampon de lavage dans les puits avant d'ajouter le substrat.\nSolution: Vérifier que le tampon de lavage est complètement éliminé.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_23",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Les comprimés de substrat ne se dissolvent pas complètement.",
+    "solution": "Vérifier que les comprimés se dissolvent correctement.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Les comprimés de substrat ne se dissolvent pas complètement.\nSolution: Vérifier que les comprimés se dissolvent correctement.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_24",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "Le comprimé de substrat a été contaminé par de l'humidité, des pinces métalliques ou n'est pas entier.",
+    "solution": "Contrôler l'intégrité et la manipulation des comprimés de substrat.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: Le comprimé de substrat a été contaminé par de l'humidité, des pinces métalliques ou n'est pas entier.\nSolution: Contrôler l'intégrité et la manipulation des comprimés de substrat.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_25",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs de l'absorbance trop faibles.",
+    "cause": "La position du puits de mesure à blanc a pu changer et une quantité incorrecte a alors été soustraite de chaque lecture.",
+    "solution": "Vérifier que la répartition des puits est correcte.",
+    "content": "Problème: Le lecteur donne des valeurs de l'absorbance trop faibles.\nCause probable: La position du puits de mesure à blanc a pu changer et une quantité incorrecte a alors été soustraite de chaque lecture.\nSolution: Vérifier que la répartition des puits est correcte.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_26",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur présente une variation imprévue des lectures de densité optique.",
+    "cause": "La lampe du lecteur est instable.",
+    "solution": "Remplacer la lampe par une autre ayant les mêmes caractéristiques que la lampe d'origine.",
+    "content": "Problème: Le lecteur présente une variation imprévue des lectures de densité optique.\nCause probable: La lampe du lecteur est instable.\nSolution: Remplacer la lampe par une autre ayant les mêmes caractéristiques que la lampe d'origine.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_27",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Le lecteur donne des valeurs augmentant ou diminuant progressivement d'une colonne à l'autre.",
+    "cause": "Etalonnage incorrect du moteur d'entraînement de la plaque.",
+    "solution": "Etalonner l'entraînement de la plaque de façon qu'à chaque arrêt les puits restent exactement alignés avec le système émetteur de lumière.",
+    "content": "Problème: Le lecteur donne des valeurs augmentant ou diminuant progressivement d'une colonne à l'autre.\nCause probable: Etalonnage incorrect du moteur d'entraînement de la plaque.\nSolution: Etalonner l'entraînement de la plaque de façon qu'à chaque arrêt les puits restent exactement alignés avec le système émetteur de lumière.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_28",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Entretien préventif",
+    "problem": "Les lectures de la densité optique sont très basses par rapport aux critères d'évaluation optique de l'opérateur.",
+    "cause": "La lecture a été faite à une longueur d'onde différente de celle qui est prévue pour le test.",
+    "solution": "Vérifier la longueur d'onde utilisée pour effectuer la lecture. Si c'est là le problème, régler la longueur d'onde et refaire la lecture. Vérifier que le filtre de longueur d'onde choisi est bien celui qui est recommandé.",
+    "content": "Problème: Les lectures de la densité optique sont très basses par rapport aux critères d'évaluation optique de l'opérateur.\nCause probable: La lecture a été faite à une longueur d'onde différente de celle qui est prévue pour le test.\nSolution: Vérifier la longueur d'onde utilisée pour effectuer la lecture. Si c'est là le problème, régler la longueur d'onde et refaire la lecture. Vérifier que le filtre de longueur d'onde choisi est bien celui qui est recommandé.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_29",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le système d'extraction est défectueux.",
+    "solution": "Vérifier si le système de vide fonctionne à la pression appropriée.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le système d'extraction est défectueux.\nSolution: Vérifier si le système de vide fonctionne à la pression appropriée.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_30",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Les tuyaux du système de vide sont d'un diamètre différent de celui qui est recommandé.",
+    "solution": "Vérifier que le diamètre des canaux correspond aux recommandations du fabricant.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Les tuyaux du système de vide sont d'un diamètre différent de celui qui est recommandé.\nSolution: Vérifier que le diamètre des canaux correspond aux recommandations du fabricant.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_31",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le tuyau d'aspiration est obstrué.",
+    "solution": "Vérifier que les tuyaux d'aspiration sont propres.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le tuyau d'aspiration est obstrué.\nSolution: Vérifier que les tuyaux d'aspiration sont propres.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_32",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le réservoir à déchets est plein.",
+    "solution": "Vérifier le niveau de remplissage du réservoir à déchets.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le réservoir à déchets est plein.\nSolution: Vérifier le niveau de remplissage du réservoir à déchets.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_33",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le filtre du système d'aspiration est humide ou bouché.",
+    "solution": "Vérifier l'état du filtre du système d'aspiration.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le filtre du système d'aspiration est humide ou bouché.\nSolution: Vérifier l'état du filtre du système d'aspiration.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_34",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Les pointes des aiguilles ne sont pas placées correctement et n'atteignent pas le fond des puits.",
+    "solution": "Examiner le positionnement des pointes d'aiguilles.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Les pointes des aiguilles ne sont pas placées correctement et n'atteignent pas le fond des puits.\nSolution: Examiner le positionnement des pointes d'aiguilles.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_35",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Une microplaque d'un type différent est utilisée pour le test.",
+    "solution": "Vérifier le type de plaque à utiliser pour le test.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Une microplaque d'un type différent est utilisée pour le test.\nSolution: Vérifier le type de plaque à utiliser pour le test.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_36",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le laveur n'a pas été suffisamment purgé.",
+    "solution": "Vérifier la procédure de purge.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le laveur n'a pas été suffisamment purgé.\nSolution: Vérifier la procédure de purge.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_37",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "L'opérateur n'a pas suivi correctement les instructions du fabricant.",
+    "solution": "Examiner la procédure recommandée par le fabricant. Faire les ajustements nécessaires.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: L'opérateur n'a pas suivi correctement les instructions du fabricant.\nSolution: Examiner la procédure recommandée par le fabricant. Faire les ajustements nécessaires.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_38",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "La plaque mise dans le laveur n'est pas correctement alignée.",
+    "solution": "Vérifier le positionnement de la plaque dans le laveur.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: La plaque mise dans le laveur n'est pas correctement alignée.\nSolution: Vérifier le positionnement de la plaque dans le laveur.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_39",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le réservoir de solution de lavage est vide.",
+    "solution": "Examiner le réservoir de solution de lavage. Compléter le niveau.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le réservoir de solution de lavage est vide.\nSolution: Examiner le réservoir de solution de lavage. Compléter le niveau.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_40",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le laveur n'a pas été suffisamment purgé au début du cycle de travail.",
+    "solution": "Le nettoyer correctement pour uniformiser l'humidité dans chaque partie et éliminer les bulles d'air.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le laveur n'a pas été suffisamment purgé au début du cycle de travail.\nSolution: Le nettoyer correctement pour uniformiser l'humidité dans chaque partie et éliminer les bulles d'air.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_41",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "Le volume de solution de lavage à délivrer a été incorrectement programmé.",
+    "solution": "Vérifier le volume requis pour chaque type de test et chaque plaque.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: Le volume de solution de lavage à délivrer a été incorrectement programmé.\nSolution: Vérifier le volume requis pour chaque type de test et chaque plaque.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_42",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "À la fin du lavage, il reste de la solution dans les puits.",
+    "cause": "La plaque a été mise de façon incorrecte dans le laveur.",
+    "solution": "Vérifier l'installation correcte de la plaque dans le laveur.",
+    "content": "Problème: À la fin du lavage, il reste de la solution dans les puits.\nCause probable: La plaque a été mise de façon incorrecte dans le laveur.\nSolution: Vérifier l'installation correcte de la plaque dans le laveur.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_43",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Le cycle de lavage ne s'effectue pas correctement.",
+    "cause": "Le programme de lavage a été incorrectement sélectionné.",
+    "solution": "Vérifier le programme de lavage recommandé pour chaque type de plaque.",
+    "content": "Problème: Le cycle de lavage ne s'effectue pas correctement.\nCause probable: Le programme de lavage a été incorrectement sélectionné.\nSolution: Vérifier le programme de lavage recommandé pour chaque type de plaque.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_44",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Le cycle de lavage ne s'effectue pas correctement.",
+    "cause": "Les plaques utilisées sont différentes de celles qui sont recommandées par le fabricant.",
+    "solution": "Vérifier que les plaques utilisées sont entièrement compatibles avec le laveur.",
+    "content": "Problème: Le cycle de lavage ne s'effectue pas correctement.\nCause probable: Les plaques utilisées sont différentes de celles qui sont recommandées par le fabricant.\nSolution: Vérifier que les plaques utilisées sont entièrement compatibles avec le laveur.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_45",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Le cycle de lavage ne s'effectue pas correctement.",
+    "cause": "Le niveau de liquide dans les puits est insuffisant.",
+    "solution": "",
+    "content": "Problème: Le cycle de lavage ne s'effectue pas correctement.\nCause probable: Le niveau de liquide dans les puits est insuffisant.\nSolution: ",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_46",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Le cycle de lavage ne s'effectue pas correctement.",
+    "cause": "Le tuyau d'alimentation en solution de lavage n'a pas le diamètre ou l'épaisseur spécifiés par le fabricant.",
+    "solution": "Vérifier les spécifications du fabricant. Faire les modifications nécessaires.",
+    "content": "Problème: Le cycle de lavage ne s'effectue pas correctement.\nCause probable: Le tuyau d'alimentation en solution de lavage n'a pas le diamètre ou l'épaisseur spécifiés par le fabricant.\nSolution: Vérifier les spécifications du fabricant. Faire les modifications nécessaires.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_47",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Le cycle de lavage ne s'effectue pas correctement.",
+    "cause": "La pression est insuffisante pour délivrer la quantité correcte de solution de lavage.",
+    "solution": "Vérifier que le système de distribution et les canaux d'alimentation ne sont pas obstrués.",
+    "content": "Problème: Le cycle de lavage ne s'effectue pas correctement.\nCause probable: La pression est insuffisante pour délivrer la quantité correcte de solution de lavage.\nSolution: Vérifier que le système de distribution et les canaux d'alimentation ne sont pas obstrués.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_48",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Le cycle de lavage ne s'effectue pas correctement.",
+    "cause": "Le système n'est pas souvent utilisé.",
+    "solution": "Vérifier les procédures à appliquer pour prévenir le développement de moisissures et de bactéries.",
+    "content": "Problème: Le cycle de lavage ne s'effectue pas correctement.\nCause probable: Le système n'est pas souvent utilisé.\nSolution: Vérifier les procédures à appliquer pour prévenir le développement de moisissures et de bactéries.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_49",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Le cycle de lavage ne s'effectue pas correctement.",
+    "cause": "La procédure adéquate (désinfection) n'est pas appliquée.",
+    "solution": "Vérifier les procédures à appliquer pour prévenir le développement de moisissures et de bactéries.",
+    "content": "Problème: Le cycle de lavage ne s'effectue pas correctement.\nCause probable: La procédure adéquate (désinfection) n'est pas appliquée.\nSolution: Vérifier les procédures à appliquer pour prévenir le développement de moisissures et de bactéries.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_50",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Des moisissures et des bactéries se développent dans le réservoir de solution de lavage.",
+    "cause": "Les tuyaux et raccords ne sont pas changés à la fréquence requise.",
+    "solution": "Vérifier la fréquence de remplacement indiquée par le fabricant et/ou le service technique.",
+    "content": "Problème: Des moisissures et des bactéries se développent dans le réservoir de solution de lavage.\nCause probable: Les tuyaux et raccords ne sont pas changés à la fréquence requise.\nSolution: Vérifier la fréquence de remplacement indiquée par le fabricant et/ou le service technique.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_51",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Des moisissures et des bactéries se développent dans le réservoir de solution de lavage.",
+    "cause": "La solution de lavage a été contaminée.",
+    "solution": "Vérifier les procédures appliquées pour préparer et utiliser la solution de lavage afin de déterminer la cause de la contamination et de l'éliminer.",
+    "content": "Problème: Des moisissures et des bactéries se développent dans le réservoir de solution de lavage.\nCause probable: La solution de lavage a été contaminée.\nSolution: Vérifier les procédures appliquées pour préparer et utiliser la solution de lavage afin de déterminer la cause de la contamination et de l'éliminer.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_52",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par jour",
+    "problem": "Des moisissures et des bactéries se développent dans le réservoir de solution de lavage.",
+    "cause": "L'entretien n'a pas été fait selon le plan.",
+    "solution": "Vérifier les dates prévues pour effectuer l'entretien. Informer les responsables.",
+    "content": "Problème: Des moisissures et des bactéries se développent dans le réservoir de solution de lavage.\nCause probable: L'entretien n'a pas été fait selon le plan.\nSolution: Vérifier les dates prévues pour effectuer l'entretien. Informer les responsables.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_53",
+    "type": "info",
+    "section": "pH mètre",
+    "subsection": "A QUOI SERT UN PH-MÈTRE",
+    "content": "Liquide: Bile\nValeur du pH: 7,8 – 8,6",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_54",
+    "type": "info",
+    "section": "pH mètre",
+    "subsection": "A QUOI SERT UN PH-MÈTRE",
+    "content": "Liquide: Salive\nValeur du pH: 6,4 – 6,8",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_55",
+    "type": "info",
+    "section": "pH mètre",
+    "subsection": "A QUOI SERT UN PH-MÈTRE",
+    "content": "Liquide: Urine\nValeur du pH: 5,5 – 7,0",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_56",
+    "type": "info",
+    "section": "pH mètre",
+    "subsection": "A QUOI SERT UN PH-MÈTRE",
+    "content": "Liquide: Suc gastrique\nValeur du pH: 1,5 – 1,8",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_57",
+    "type": "info",
+    "section": "pH mètre",
+    "subsection": "A QUOI SERT UN PH-MÈTRE",
+    "content": "Liquide: Sang\nValeur du pH: 7,35 – 7,45",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_58",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "Le pH-mètre donne des valeurs instables.",
+    "cause": "Il y a des bulles d'air dans l'électrode.",
+    "solution": "Faire tremper l'électrode pour éliminer les bulles.",
+    "content": "Problème: Le pH-mètre donne des valeurs instables.\nCause probable: Il y a des bulles d'air dans l'électrode.\nSolution: Faire tremper l'électrode pour éliminer les bulles.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_59",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "Le pH-mètre donne des valeurs instables.",
+    "cause": "L'électrode est sale.",
+    "solution": "Nettoyer l'électrode et la réétalonner.",
+    "content": "Problème: Le pH-mètre donne des valeurs instables.\nCause probable: L'électrode est sale.\nSolution: Nettoyer l'électrode et la réétalonner.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_60",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "Le pH-mètre donne des valeurs instables.",
+    "cause": "L'électrode n'est pas immergée.",
+    "solution": "Vérifier que l'échantillon recouvre entièrement la pointe de l'électrode.",
+    "content": "Problème: Le pH-mètre donne des valeurs instables.\nCause probable: L'électrode n'est pas immergée.\nSolution: Vérifier que l'échantillon recouvre entièrement la pointe de l'électrode.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_61",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "Le pH-mètre donne des valeurs instables.",
+    "cause": "L'électrode est cassée.",
+    "solution": "Remplacer l'électrode.",
+    "content": "Problème: Le pH-mètre donne des valeurs instables.\nCause probable: L'électrode est cassée.\nSolution: Remplacer l'électrode.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_62",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "La réponse de l'électrode est lente.",
+    "cause": "L'électrode est sale ou grasse.",
+    "solution": "Nettoyer l'électrode et la réétalonner.",
+    "content": "Problème: La réponse de l'électrode est lente.\nCause probable: L'électrode est sale ou grasse.\nSolution: Nettoyer l'électrode et la réétalonner.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_63",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "L'écran affiche un message d'erreur.",
+    "cause": "Sélection incorrecte du mode de fonctionnement.",
+    "solution": "Vérifier le mode de fonctionnement sélectionné. Sélectionner une opération valide.",
+    "content": "Problème: L'écran affiche un message d'erreur.\nCause probable: Sélection incorrecte du mode de fonctionnement.\nSolution: Vérifier le mode de fonctionnement sélectionné. Sélectionner une opération valide.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_64",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "L'écran affiche un message d'étalonnage ou d'erreur.",
+    "cause": "Il y a une erreur d'étalonnage.",
+    "solution": "Réétalonner le pH-mètre.",
+    "content": "Problème: L'écran affiche un message d'étalonnage ou d'erreur.\nCause probable: Il y a une erreur d'étalonnage.\nSolution: Réétalonner le pH-mètre.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_65",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "L'écran affiche un message d'étalonnage ou d'erreur.",
+    "cause": "L'étalonnage de la valeur tampon est erroné.",
+    "solution": "Vérifier les valeurs tampons utilisées.",
+    "content": "Problème: L'écran affiche un message d'étalonnage ou d'erreur.\nCause probable: L'étalonnage de la valeur tampon est erroné.\nSolution: Vérifier les valeurs tampons utilisées.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_66",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "L'écran affiche un message d'étalonnage ou d'erreur.",
+    "cause": "L'électrode est sale.",
+    "solution": "Nettoyer et étalonner l'électrode.",
+    "content": "Problème: L'écran affiche un message d'étalonnage ou d'erreur.\nCause probable: L'électrode est sale.\nSolution: Nettoyer et étalonner l'électrode.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_67",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "Le pH-mètre est allumé (sur ON) mais il n'y a pas de signal sur l'écran.\\*",
+    "cause": "Les piles sont mal installées.",
+    "solution": "Vérifier la polarité des piles.",
+    "content": "Problème: Le pH-mètre est allumé (sur ON) mais il n'y a pas de signal sur l'écran.\\*\nCause probable: Les piles sont mal installées.\nSolution: Vérifier la polarité des piles.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_68",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "Le pH-mètre est allumé (sur ON) mais il n'y a pas de signal sur l'écran.\\*",
+    "cause": "Les piles sont usées.",
+    "solution": "Remplacer les piles.",
+    "content": "Problème: Le pH-mètre est allumé (sur ON) mais il n'y a pas de signal sur l'écran.\\*\nCause probable: Les piles sont usées.\nSolution: Remplacer les piles.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_69",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Autres précautions",
+    "problem": "Le témoin de niveau de charge des piles clignote.\\*",
+    "cause": "Les piles sont usées.",
+    "solution": "Remplacer les piles.",
+    "content": "Problème: Le témoin de niveau de charge des piles clignote.\\*\nCause probable: Les piles sont usées.\nSolution: Remplacer les piles.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_70",
+    "type": "info",
+    "section": "PRINCIPES DE FONCTIONNEMENT",
+    "subsection": "Balances mécaniques",
+    "content": "Type de masse: Masses unitaires\nMasse nominale: 1, 2, 5, 10, 20, and 50 g",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_71",
+    "type": "info",
+    "section": "PRINCIPES DE FONCTIONNEMENT",
+    "subsection": "Balances mécaniques",
+    "content": "Type de masse: Lamelles\nMasse nominale: 100, 200 and 500 g",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_72",
+    "type": "info",
+    "section": "PRINCIPES DE FONCTIONNEMENT",
+    "subsection": "Balances mécaniques",
+    "content": "Type de masse: Lamelles\nMasse nominale: 2, 5, 10, 20 and 50 mg",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_73",
+    "type": "info",
+    "section": "PRINCIPES DE FONCTIONNEMENT",
+    "subsection": "Balances mécaniques",
+    "content": "Type de masse: Lamelles\nMasse nominale: 100, 200 and 500 mg",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_74",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La balance ne s'allume pas.",
+    "cause": "Le câble de raccordement est débranché ou la fiche est mal connectée à la balance.",
+    "solution": "Vérifier le branchement. Remettre correctement le câble de raccordement si nécessaire.",
+    "content": "Problème: La balance ne s'allume pas.\nCause probable: Le câble de raccordement est débranché ou la fiche est mal connectée à la balance.\nSolution: Vérifier le branchement. Remettre correctement le câble de raccordement si nécessaire.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_75",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La balance ne s'allume pas.",
+    "cause": "La prise de courant n'est pas alimentée.",
+    "solution": "Vérifier l'alimentation électrique.",
+    "content": "Problème: La balance ne s'allume pas.\nCause probable: La prise de courant n'est pas alimentée.\nSolution: Vérifier l'alimentation électrique.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_76",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La lecture du poids est incorrecte.",
+    "cause": "La balance n'a pas été mise à zéro avant la lecture.",
+    "solution": "Mettre la balance sur zéro ; refaire la mesure.",
+    "content": "Problème: La lecture du poids est incorrecte.\nCause probable: La balance n'a pas été mise à zéro avant la lecture.\nSolution: Mettre la balance sur zéro ; refaire la mesure.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_77",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La lecture du poids est incorrecte.",
+    "cause": "La balance est incorrectement étalonnée.",
+    "solution": "Étalonner selon la procédure recommandée par le fabricant.",
+    "content": "Problème: La lecture du poids est incorrecte.\nCause probable: La balance est incorrectement étalonnée.\nSolution: Étalonner selon la procédure recommandée par le fabricant.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_78",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La lecture du poids est incorrecte.",
+    "cause": "La balance n'est pas horizontale.",
+    "solution": "Mettre la balance de niveau.",
+    "content": "Problème: La lecture du poids est incorrecte.\nCause probable: La balance n'est pas horizontale.\nSolution: Mettre la balance de niveau.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_79",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La balance n'indique pas les unités de mesures souhaitées sur l'écran.",
+    "cause": "Les unités sont incorrectement sélectionnées.",
+    "solution": "Vérifier la procédure définie par le fabricant pour sélectionner l'unité de mesure souhaitée.",
+    "content": "Problème: La balance n'indique pas les unités de mesures souhaitées sur l'écran.\nCause probable: Les unités sont incorrectement sélectionnées.\nSolution: Vérifier la procédure définie par le fabricant pour sélectionner l'unité de mesure souhaitée.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_80",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La balance n'indique pas les unités de mesures souhaitées sur l'écran.",
+    "cause": "L'unité souhaitée n'est pas disponible ou n'est pas activée.",
+    "solution": "Activer l'unité de mesure selon la procédure définie par le fabricant.",
+    "content": "Problème: La balance n'indique pas les unités de mesures souhaitées sur l'écran.\nCause probable: L'unité souhaitée n'est pas disponible ou n'est pas activée.\nSolution: Activer l'unité de mesure selon la procédure définie par le fabricant.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_81",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La configuration de la balance ne peut être modifiée à partir du menu.",
+    "cause": "Le menu est peut-être verrouillé.",
+    "solution": "Vérifier si la touche de verrouillage du menu est activée. Si oui, la désactiver.",
+    "content": "Problème: La configuration de la balance ne peut être modifiée à partir du menu.\nCause probable: Le menu est peut-être verrouillé.\nSolution: Vérifier si la touche de verrouillage du menu est activée. Si oui, la désactiver.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_82",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "La balance ne garde pas les sélections ni les modifications effectuées.",
+    "cause": "La touche End n'a pas été pressée pour finaliser le processus.",
+    "solution": "Vérifier que les modifications et les sélections sont effectuées conformément aux instructions du fabricant. Refaire la sélection ou la modification.",
+    "content": "Problème: La balance ne garde pas les sélections ni les modifications effectuées.\nCause probable: La touche End n'a pas été pressée pour finaliser le processus.\nSolution: Vérifier que les modifications et les sélections sont effectuées conformément aux instructions du fabricant. Refaire la sélection ou la modification.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_83",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "Le lecteur de la balance est instable.",
+    "cause": "La surface de la table ou de la paillasse vibre.",
+    "solution": "Éteindre la balance, attendre un moment et rallumer la balance.",
+    "content": "Problème: Le lecteur de la balance est instable.\nCause probable: La surface de la table ou de la paillasse vibre.\nSolution: Éteindre la balance, attendre un moment et rallumer la balance.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_84",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "Le lecteur de la balance est instable.",
+    "cause": "La porte avant de la balance est ouverte.",
+    "solution": "Placer la balance sur une surface stable.",
+    "content": "Problème: Le lecteur de la balance est instable.\nCause probable: La porte avant de la balance est ouverte.\nSolution: Placer la balance sur une surface stable.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_85",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "Le lecteur de la balance est instable.",
+    "cause": "",
+    "solution": "Fermer la porte avant pour effectuer la mesure.",
+    "content": "Problème: Le lecteur de la balance est instable.\nCause probable: \nSolution: Fermer la porte avant pour effectuer la mesure.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_86",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "L'interface RS232 ne fonctionne pas.",
+    "cause": "Le câble de raccordement est mal connecté.",
+    "solution": "Vérifier que le câble est bien connecté.",
+    "content": "Problème: L'interface RS232 ne fonctionne pas.\nCause probable: Le câble de raccordement est mal connecté.\nSolution: Vérifier que le câble est bien connecté.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_87",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "L'écran donne une lecture incomplète ou est bloqué.",
+    "cause": "Le microprocesseur est bloqué.",
+    "solution": "Éteindre la balance, attendre un moment et la rallumer. Si le problème persiste, appeler le service technique.",
+    "content": "Problème: L'écran donne une lecture incomplète ou est bloqué.\nCause probable: Le microprocesseur est bloqué.\nSolution: Éteindre la balance, attendre un moment et la rallumer. Si le problème persiste, appeler le service technique.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_88",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "problem": "L'écran affiche un code d'erreur.",
+    "cause": "Diverses causes.",
+    "solution": "Vérifier les codes d'erreur dans le manuel d'utilisation de la balance.",
+    "content": "Problème: L'écran affiche un code d'erreur.\nCause probable: Diverses causes.\nSolution: Vérifier les codes d'erreur dans le manuel d'utilisation de la balance.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_89",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Lectures non reproductibles (hystérésis).\nCAUSE PROBABLE: La cellule de mesure est sale.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_90",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Lectures non reproductibles (hystérésis).\nCAUSE PROBABLE: Le montage de la cellule de mesure est défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_91",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Lectures non linéaires.\nCAUSE PROBABLE: Système électronique défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_92",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Lectures non linéaires.\nCAUSE PROBABLE: Système mécanique en mauvais état.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_93",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Le résultat affiché n'arrête pas de monter ou de descendre.\nCAUSE PROBABLE: Système électronique défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_94",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Le résultat affiché n'arrête pas de monter ou de descendre.\nCAUSE PROBABLE: Changement de température dans la pièce.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_95",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Le résultat affiché n'arrête pas de monter et descendre.\nCAUSE PROBABLE: La cellule de mesure est sale.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_96",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Le résultat affiché n'arrête pas de monter et descendre.\nCAUSE PROBABLE: Système électronique défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_97",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: Le résultat affiché n'arrête pas de monter et descendre.\nCAUSE PROBABLE: Problèmes liés à l'environnement tels que courants d'air, électricité statique ou vibrations.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_98",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: L'écran est vide ou affiche des signes qui ne veulent rien dire.\nCAUSE PROBABLE: Système électronique défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_99",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: L'écran indique une surcharge ou une valeur négative en l'absence de charge.\nCAUSE PROBABLE: La cellule de mesure a été endommagée par une surcharge.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_100",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: L'écran indique une surcharge ou une valeur négative en l'absence de charge.\nCAUSE PROBABLE: Le montage de la cellule de mesure est défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_101",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: La balance ne peut être étalonnée.\nCAUSE PROBABLE: Pile d'étalonnage défectueuse.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_102",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: La balance ne peut être étalonnée.\nCAUSE PROBABLE: Système électronique défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_103",
+    "type": "info",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Balance électronique",
+    "content": "ERREUR DE FONCTIONNEMENT: La balance ne peut être étalonnée.\nCAUSE PROBABLE: Le montage de la cellule de mesure est défectueux.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_104",
+    "type": "info",
+    "section": "Bains-marie",
+    "subsection": "PRINCIPES DE FONCTIONNEMENT",
+    "content": "Classe: Basse<br/>température\nGamme de température: De la température ambiante à 60 °C<br/>De la température ambiante à 100 °C",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_105",
+    "type": "info",
+    "section": "Bains-marie",
+    "subsection": "PRINCIPES DE FONCTIONNEMENT",
+    "content": "Classe: Haute<br/>température\nGamme de température: De la température ambiante à 275 °C. Lorsque des températures supérieures à 100 °C sont nécessaires, il faut utiliser un liquide autre que de l'eau car l'eau bout à 100 °C dans les conditions normales.<br/>Ce type de bain-marie utilise en général des huiles, dont le point d'ébullition est beaucoup plus élevé.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_106",
+    "type": "info",
+    "section": "Bains-marie",
+    "subsection": "PRINCIPES DE FONCTIONNEMENT",
+    "content": "Classe: Isolé\nGamme de température: De la température ambiante à 100 °C avec accessoires et/ou agitation (bains-marie à eau).",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_107",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "L'appareil ne s'allume pas.",
+    "cause": "Le bain-marie est débranché.",
+    "solution": "Brancher le bain-marie.",
+    "content": "Problème: L'appareil ne s'allume pas.\nCause probable: Le bain-marie est débranché.\nSolution: Brancher le bain-marie.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_108",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "L'appareil ne s'allume pas.",
+    "cause": "L'interrupteur est défectueux",
+    "solution": "Remplacer l'interrupteur.",
+    "content": "Problème: L'appareil ne s'allume pas.\nCause probable: L'interrupteur est défectueux\nSolution: Remplacer l'interrupteur.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_109",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "L'appareil ne s'allume pas.",
+    "cause": "Le fusible est défectueux.",
+    "solution": "Remplacer le fusible.",
+    "content": "Problème: L'appareil ne s'allume pas.\nCause probable: Le fusible est défectueux.\nSolution: Remplacer le fusible.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_110",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "Le bain-marie ne chauffe pas.",
+    "cause": "La température n'est pas sélectionnée.",
+    "solution": "Sélectionner la température.",
+    "content": "Problème: Le bain-marie ne chauffe pas.\nCause probable: La température n'est pas sélectionnée.\nSolution: Sélectionner la température.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_111",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "Le bain-marie ne chauffe pas.",
+    "cause": "Les résistances sont défectueuses.",
+    "solution": "Remplacer la ou les résistances.",
+    "content": "Problème: Le bain-marie ne chauffe pas.\nCause probable: Les résistances sont défectueuses.\nSolution: Remplacer la ou les résistances.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_112",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "Le bain-marie ne chauffe pas.",
+    "cause": "La température limite n'est pas fixée.",
+    "solution": "Sélectionner la température limite.",
+    "content": "Problème: Le bain-marie ne chauffe pas.\nCause probable: La température limite n'est pas fixée.\nSolution: Sélectionner la température limite.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_113",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "La température est plus élevée que la valeur sélectionnée.",
+    "cause": "Le dispositif de contrôle de la température est défectueux.",
+    "solution": "Remplacer le dispositif de contrôle de la température si nécessaire.",
+    "content": "Problème: La température est plus élevée que la valeur sélectionnée.\nCause probable: Le dispositif de contrôle de la température est défectueux.\nSolution: Remplacer le dispositif de contrôle de la température si nécessaire.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_114",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "La température est plus élevée que la valeur sélectionnée.",
+    "cause": "Vérifier la sélection des paramètres.",
+    "solution": "",
+    "content": "Problème: La température est plus élevée que la valeur sélectionnée.\nCause probable: Vérifier la sélection des paramètres.\nSolution: ",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_115",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "Les échantillons chauffent lentement.",
+    "cause": "La cuve est vide ou contient très peu de liquide.",
+    "solution": "Remplir la cuve jusqu'au niveau recommandé.",
+    "content": "Problème: Les échantillons chauffent lentement.\nCause probable: La cuve est vide ou contient très peu de liquide.\nSolution: Remplir la cuve jusqu'au niveau recommandé.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_116",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "La température augmente très lentement.",
+    "cause": "Les résistances sont défectueuses.",
+    "solution": "Remplacer la ou les résistances.",
+    "content": "Problème: La température augmente très lentement.\nCause probable: Les résistances sont défectueuses.\nSolution: Remplacer la ou les résistances.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_117",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : une fois par trimestre",
+    "problem": "La température augmente très lentement.",
+    "cause": "Le dispositif de contrôle de la température est défectueux.",
+    "solution": "Remplacer le dispositif de contrôle de la température.",
+    "content": "Problème: La température augmente très lentement.\nCause probable: Le dispositif de contrôle de la température est défectueux.\nSolution: Remplacer le dispositif de contrôle de la température.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_118",
+    "type": "info",
+    "section": "Enceinte de sécurité biologique",
+    "subsection": "PRINCIPES DE FONCTIONNEMENT",
+    "content": "Type d'enceinte, avec illustration: **CLASSE I — TYPE A**\nCaractéristiques: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_119",
+    "type": "info",
+    "section": "Enceinte de sécurité biologique",
+    "subsection": "PRINCIPES DE FONCTIONNEMENT",
+    "content": "Type d'enceinte, avec illustration: **CLASSE II — TYPE B1**\nCaractéristiques: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_120",
+    "type": "info",
+    "section": "Enceinte de sécurité biologique",
+    "subsection": "PRINCIPES DE FONCTIONNEMENT",
+    "content": "Type d'enceinte, avec illustration: **CLASSE II — TYPE B3 OU A/B3**\nCaractéristiques: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_121",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: **Identification de l'enceinte par l'établissement**\nObservation: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_122",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: **ELECTRIQUES**\nObservation: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_123",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Voltage\nObservation: Mesure de la tension. Nécessite un voltmètre.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_124",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Ampérage\nObservation: Mesure de l'ampérage. Nécessite un voltmètre ou une pince ampèremétrique.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_125",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Moteur/ventilateur\nObservation: Vérification de la température de fonctionnement. Vérifier le niveau sonore et les vibrations.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_126",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Eclairage – Fluorescent\nObservation: Confirmer que la lampe fonctionne.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_127",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Eclairage – Ultraviolet\nObservation: Confirmer l'horaire de fonctionnement des lampes et leur intensité lumineuse. Nécessite un radiomètre.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_128",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Prise électrique\nObservation: Vérifier l'intégrité, la qualité des contacts et les voltages disponibles.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_129",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Interrupteurs\nObservation: Contrôler l'état et l'intégrité.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_130",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Intégrité des câbles et raccords\nObservation: Vérification visuelle.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_131",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Alarmes\nObservation: Vérifier l'état et l'étalonnage.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_132",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: **PHYSIQUES**\nObservation: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_133",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Finition interne/externe\nObservation: Vérification visuelle.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_134",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Etat des filtres et préfiltres\nObservation: Vérification visuelle. Il ne doit pas y avoir de fuites, ni dans le matériau filtrant ni au niveau des joints.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_135",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Joints/raccords\nObservation: Vérification visuelle. Il ne doit pas y avoir de fuites.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_136",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Fenêtre coulissante\nObservation: Vérification visuelle. Doit coulisser librement et conserver la position voulue.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_137",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: **OPÉRATIONNELS**\nObservation: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_138",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Vitesse du flux d'air\nObservation: Contrôle de la vitesse selon la classe et le type d'enceinte. Nécessite un anémomètre.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_139",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Niveau sonore\nObservation: Nécessite un audiomètre.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_140",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Différentiel de pression dans le filtre HEPA\nObservation: Mesurer la pression dans l'enceinte avec un manomètre.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_141",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: **PERFORMANCE**\nObservation: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_142",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Numération des particules\nObservation: Méthode définie dans la norme Federal Standard 209D. Nécessite un générateur de tension, un photomètre et un compteur de particules.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_143",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: **CONDITIONS DANS LE SECTEUR D'INSTALLATION**\nObservation: ",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_144",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Température\nObservation: Nécessite un thermomètre : environ 20-22 °C.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_145",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Humidité\nObservation: Nécessite un hygromètre : environ 45-55 %.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_146",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Propreté\nObservation: Doit être satisfaisante.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_147",
+    "type": "info",
+    "section": "EVALUATION FONCTIONNELLE (AUTRE OPTION)",
+    "subsection": "Fréquence : une fois par an",
+    "content": "Paramètres: Courants d'air\nObservation: Il ne doit pas y avoir de courants d'air susceptibles de nuire au fonctionnement de l'enceinte.",
+    "metadata": {
+      "source": "tables.md"
+    }
+  },
+  {
+    "id": "table_chunk_148",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Ni l'éclairage ni le système de ventilation de l'enceinte ne fonctionnent.",
+    "cause": "L'enceinte est débranchée.",
+    "solution": "Vérifier que l'enceinte est raccordée à une prise de courant et que le câble est correctement relié au boîtier électrique de l'enceinte.",
+    "content": "Problème: Ni l'éclairage ni le système de ventilation de l'enceinte ne fonctionnent.\nCause probable: L'enceinte est débranchée.\nSolution: Vérifier que l'enceinte est raccordée à une prise de courant et que le câble est correctement relié au boîtier électrique de l'enceinte.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_149",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Ni l'éclairage ni le système de ventilation de l'enceinte ne fonctionnent.",
+    "cause": "La prise de courant n'est pas alimentée.",
+    "solution": "Vérifier que la prise de courant est alimentée et que le coupe-circuit n'est pas désactivé (protection thermomagnétique). Remettre les interrupteurs en marche.",
+    "content": "Problème: Ni l'éclairage ni le système de ventilation de l'enceinte ne fonctionnent.\nCause probable: La prise de courant n'est pas alimentée.\nSolution: Vérifier que la prise de courant est alimentée et que le coupe-circuit n'est pas désactivé (protection thermomagnétique). Remettre les interrupteurs en marche.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_150",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur fonctionne mais pas l'éclairage.",
+    "cause": "La lampe est défectueuse.",
+    "solution": "Remplacer la lampe. Utiliser une lampe ayant les mêmes caractéristiques que la lampe d'origine.",
+    "content": "Problème: Le ventilateur fonctionne mais pas l'éclairage.\nCause probable: La lampe est défectueuse.\nSolution: Remplacer la lampe. Utiliser une lampe ayant les mêmes caractéristiques que la lampe d'origine.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_151",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur fonctionne mais pas l'éclairage.",
+    "cause": "La lampe est mal connectée.",
+    "solution": "Vérifier la connexion de la lampe. Remettre la lampe en position correcte.",
+    "content": "Problème: Le ventilateur fonctionne mais pas l'éclairage.\nCause probable: La lampe est mal connectée.\nSolution: Vérifier la connexion de la lampe. Remettre la lampe en position correcte.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_152",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur fonctionne mais pas l'éclairage.",
+    "cause": "La protection thermomagnétique du coupe-circuit est activée.",
+    "solution": "Reconnecter le coupe-circuit.",
+    "content": "Problème: Le ventilateur fonctionne mais pas l'éclairage.\nCause probable: La protection thermomagnétique du coupe-circuit est activée.\nSolution: Reconnecter le coupe-circuit.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_153",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur fonctionne mais pas l'éclairage.",
+    "cause": "Le fil conducteur de la lampe est déconnecté.",
+    "solution": "Contrôler le fil conducteur de la lampe.",
+    "content": "Problème: Le ventilateur fonctionne mais pas l'éclairage.\nCause probable: Le fil conducteur de la lampe est déconnecté.\nSolution: Contrôler le fil conducteur de la lampe.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_154",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur fonctionne mais pas l'éclairage.",
+    "cause": "Le ballast de la lampe est défectueux.",
+    "solution": "Remplacer le ballast.",
+    "content": "Problème: Le ventilateur fonctionne mais pas l'éclairage.\nCause probable: Le ballast de la lampe est défectueux.\nSolution: Remplacer le ballast.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_155",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur ne souffle pas mais la lampe fonctionne.",
+    "cause": "La fenêtre frontale est fermée.",
+    "solution": "Ouvrir la fenêtre en position de travail.",
+    "content": "Problème: Le ventilateur ne souffle pas mais la lampe fonctionne.\nCause probable: La fenêtre frontale est fermée.\nSolution: Ouvrir la fenêtre en position de travail.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_156",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur ne souffle pas mais la lampe fonctionne.",
+    "cause": "Le moteur du ventilateur est défectueux.",
+    "solution": "Remplacer le bloc moteur du ventilateur.",
+    "content": "Problème: Le ventilateur ne souffle pas mais la lampe fonctionne.\nCause probable: Le moteur du ventilateur est défectueux.\nSolution: Remplacer le bloc moteur du ventilateur.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_157",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le ventilateur ne souffle pas mais la lampe fonctionne.",
+    "cause": "Le moteur du ventilateur est déconnecté.",
+    "solution": "Contrôler les connexions du moteur.",
+    "content": "Problème: Le ventilateur ne souffle pas mais la lampe fonctionne.\nCause probable: Le moteur du ventilateur est déconnecté.\nSolution: Contrôler les connexions du moteur.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_158",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le manomètre indique une augmentation de la dépression au niveau du filtre.",
+    "cause": "La rétention de particules dans le filtre HEPA a augmenté.",
+    "solution": "Processus normal pendant la vie active du filtre.",
+    "content": "Problème: Le manomètre indique une augmentation de la dépression au niveau du filtre.\nCause probable: La rétention de particules dans le filtre HEPA a augmenté.\nSolution: Processus normal pendant la vie active du filtre.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_159",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le manomètre indique une augmentation de la dépression au niveau du filtre.",
+    "cause": "Il y a un blocage au niveau des grilles ou des fentes de reprise.",
+    "solution": "Vérifier que les grilles ne sont pas obstruées par du matériel.",
+    "content": "Problème: Le manomètre indique une augmentation de la dépression au niveau du filtre.\nCause probable: Il y a un blocage au niveau des grilles ou des fentes de reprise.\nSolution: Vérifier que les grilles ne sont pas obstruées par du matériel.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_160",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le manomètre indique une augmentation de la dépression au niveau du filtre.",
+    "cause": "La conduite d'évacuation est obstruée.",
+    "solution": "Vérifier qu'il n'y a pas de blocage ou d'obstruction dans la conduite d'évacuation.",
+    "content": "Problème: Le manomètre indique une augmentation de la dépression au niveau du filtre.\nCause probable: La conduite d'évacuation est obstruée.\nSolution: Vérifier qu'il n'y a pas de blocage ou d'obstruction dans la conduite d'évacuation.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_161",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Le manomètre indique une augmentation de la dépression au niveau du filtre.",
+    "cause": "Il y a un blocage ou une obstruction sous le plan de travail.",
+    "solution": "Vérifier que le tuyau situé sous le plan de travail n'est pas obstrué.",
+    "content": "Problème: Le manomètre indique une augmentation de la dépression au niveau du filtre.\nCause probable: Il y a un blocage ou une obstruction sous le plan de travail.\nSolution: Vérifier que le tuyau situé sous le plan de travail n'est pas obstrué.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_162",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Il y a une contamination des échantillons manipulés dans l'enceinte.",
+    "cause": "Les modes opératoires sont incorrects.",
+    "solution": "Vérifier que l'enceinte est utilisée conformément au mode d'emploi et aux bonnes pratiques.",
+    "content": "Problème: Il y a une contamination des échantillons manipulés dans l'enceinte.\nCause probable: Les modes opératoires sont incorrects.\nSolution: Vérifier que l'enceinte est utilisée conformément au mode d'emploi et aux bonnes pratiques.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_163",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Il y a une contamination des échantillons manipulés dans l'enceinte.",
+    "cause": "Obstruction au niveau des fentes de reprise ou blocage de la conduite d'évacuation.",
+    "solution": "Tester le système d'évacuation et de reprise pour vérifier l'absence d'obstruction.",
+    "content": "Problème: Il y a une contamination des échantillons manipulés dans l'enceinte.\nCause probable: Obstruction au niveau des fentes de reprise ou blocage de la conduite d'évacuation.\nSolution: Tester le système d'évacuation et de reprise pour vérifier l'absence d'obstruction.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_164",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Il y a une contamination des échantillons manipulés dans l'enceinte.",
+    "cause": "Des facteurs extérieurs à l'enceinte affectent la circulation de l'air à l'intérieur et provoquent une contamination.",
+    "solution": "Vérifier le secteur d'installation de l'enceinte et les procédures qui y sont effectuées.",
+    "content": "Problème: Il y a une contamination des échantillons manipulés dans l'enceinte.\nCause probable: Des facteurs extérieurs à l'enceinte affectent la circulation de l'air à l'intérieur et provoquent une contamination.\nSolution: Vérifier le secteur d'installation de l'enceinte et les procédures qui y sont effectuées.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_165",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE¹",
+    "subsection": "Fréquence : une fois par an",
+    "problem": "Il y a une contamination des échantillons manipulés dans l'enceinte.",
+    "cause": "Le filtre HEPA est défectueux.",
+    "solution": "Remplacer le filtre HEPA est procéder à la certification de l'enceinte.",
+    "content": "Problème: Il y a une contamination des échantillons manipulés dans l'enceinte.\nCause probable: Le filtre HEPA est défectueux.\nSolution: Remplacer le filtre HEPA est procéder à la certification de l'enceinte.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_166",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Fortes vibrations.",
+    "cause": "Le rotor n'est pas équilibré.",
+    "solution": "Équilibrer la charge du rotor. Remplir tous les tubes opposés avec le même niveau de liquide de même densité.",
+    "content": "Problème: Fortes vibrations.\nCause probable: Le rotor n'est pas équilibré.\nSolution: Équilibrer la charge du rotor. Remplir tous les tubes opposés avec le même niveau de liquide de même densité.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_167",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Fortes vibrations.",
+    "cause": "",
+    "solution": "Répartir symétriquement le poids des tubes opposés.",
+    "content": "Problème: Fortes vibrations.\nCause probable: \nSolution: Répartir symétriquement le poids des tubes opposés.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_168",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Fortes vibrations.",
+    "cause": "",
+    "solution": "Charger symétriquement les rotors angulaires ou verticaux.",
+    "content": "Problème: Fortes vibrations.\nCause probable: \nSolution: Charger symétriquement les rotors angulaires ou verticaux.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_169",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Fortes vibrations.",
+    "cause": "La vitesse choisie est proche de la plage de résonance du rotor.",
+    "solution": "Choisir une vitesse de rotation en dehors de la plage de résonance.",
+    "content": "Problème: Fortes vibrations.\nCause probable: La vitesse choisie est proche de la plage de résonance du rotor.\nSolution: Choisir une vitesse de rotation en dehors de la plage de résonance.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_170",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Fortes vibrations.",
+    "cause": "Le montage du rotor est incorrect.",
+    "solution": "Vérifier le montage du rotor. Vérifier qu'il est bien ajusté.",
+    "content": "Problème: Fortes vibrations.\nCause probable: Le montage du rotor est incorrect.\nSolution: Vérifier le montage du rotor. Vérifier qu'il est bien ajusté.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_171",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Fortes vibrations.",
+    "cause": "Les supports du rotor ne sont pas correctement lubrifiés.",
+    "solution": "Lubrifier l'axe de rotation selon les recommandations du fabricant, par exemple toutes les 250 centrifugations.",
+    "content": "Problème: Fortes vibrations.\nCause probable: Les supports du rotor ne sont pas correctement lubrifiés.\nSolution: Lubrifier l'axe de rotation selon les recommandations du fabricant, par exemple toutes les 250 centrifugations.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_172",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Les couvercles du rotor, des cartouches ou de la cuve sont difficiles à ouvrir après centrifugation.",
+    "cause": "Il se produit un vide pendant la centrifugation.",
+    "solution": "Ouvrir la prise d'air sur le dessus du rotor ou de la cuve pour casser le vide.",
+    "content": "Problème: Les couvercles du rotor, des cartouches ou de la cuve sont difficiles à ouvrir après centrifugation.\nCause probable: Il se produit un vide pendant la centrifugation.\nSolution: Ouvrir la prise d'air sur le dessus du rotor ou de la cuve pour casser le vide.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_173",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Rotors¹",
+    "problem": "Les couvercles du rotor, des cartouches ou de la cuve sont difficiles à ouvrir après centrifugation.",
+    "cause": "Les joints sont encrassés par de la poussière, des restes de lubrifiant séché ou des particules métalliques.",
+    "solution": "Effectuer le nettoyage de routine des joints et les lubrifier. Utiliser les produits recommandés par le fabricant.",
+    "content": "Problème: Les couvercles du rotor, des cartouches ou de la cuve sont difficiles à ouvrir après centrifugation.\nCause probable: Les joints sont encrassés par de la poussière, des restes de lubrifiant séché ou des particules métalliques.\nSolution: Effectuer le nettoyage de routine des joints et les lubrifier. Utiliser les produits recommandés par le fabricant.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_174",
+    "type": "troubleshooting",
+    "section": "Tubes",
+    "subsection": "Rotors¹",
+    "problem": "Les tubes fuient.",
+    "cause": "Les couvercles sont mal fixés.",
+    "solution": "Ajuster les couvercles.",
+    "content": "Problème: Les tubes fuient.\nCause probable: Les couvercles sont mal fixés.\nSolution: Ajuster les couvercles.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_175",
+    "type": "troubleshooting",
+    "section": "Tubes",
+    "subsection": "Rotors¹",
+    "problem": "Les tubes fuient.",
+    "cause": "Les tubes sont trop pleins.",
+    "solution": "Le ménisque doit se situer plus bas pour éviter les fuites.",
+    "content": "Problème: Les tubes fuient.\nCause probable: Les tubes sont trop pleins.\nSolution: Le ménisque doit se situer plus bas pour éviter les fuites.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_176",
+    "type": "troubleshooting",
+    "section": "Tubes",
+    "subsection": "Rotors¹",
+    "problem": "Les tubes fuient.",
+    "cause": "Le niveau maximal recommandé est dépassé dans les tubes ouverts.",
+    "solution": "Vérifier le volume et la vitesse recommandés pour la centrifugation.",
+    "content": "Problème: Les tubes fuient.\nCause probable: Le niveau maximal recommandé est dépassé dans les tubes ouverts.\nSolution: Vérifier le volume et la vitesse recommandés pour la centrifugation.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_177",
+    "type": "troubleshooting",
+    "section": "Tubes",
+    "subsection": "Rotors¹",
+    "problem": "Les tubes fuient.",
+    "cause": "Un scellement est peut-être défectueux dans les tubes à scellement rapide.",
+    "solution": "Appuyer légèrement après scellement à chaud (seulement si le contenu n'est pas affecté). Si des fuites sont visibles, sceller à nouveau.",
+    "content": "Problème: Les tubes fuient.\nCause probable: Un scellement est peut-être défectueux dans les tubes à scellement rapide.\nSolution: Appuyer légèrement après scellement à chaud (seulement si le contenu n'est pas affecté). Si des fuites sont visibles, sceller à nouveau.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_178",
+    "type": "troubleshooting",
+    "section": "Tubes",
+    "subsection": "Rotors¹",
+    "problem": "Les tubes sont fissurés ou cassés.",
+    "cause": "Les tubes peuvent se casser ou être fragilisés s'ils sont utilisés au-dessous des températures recommandées.",
+    "solution": "Si l'échantillon est congelé, le réchauffer à 2 °C avant de centrifuger. Tester le comportement des tubes à basse température avant de centrifuger.",
+    "content": "Problème: Les tubes sont fissurés ou cassés.\nCause probable: Les tubes peuvent se casser ou être fragilisés s'ils sont utilisés au-dessous des températures recommandées.\nSolution: Si l'échantillon est congelé, le réchauffer à 2 °C avant de centrifuger. Tester le comportement des tubes à basse température avant de centrifuger.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_179",
+    "type": "troubleshooting",
+    "section": "Tubes",
+    "subsection": "Rotors¹",
+    "problem": "Les tubes sont fissurés ou cassés.",
+    "cause": "Les tubes deviennent fragiles avec l'âge et l'utilisation.",
+    "solution": "Jeter les tubes périmés et en utiliser de nouveaux.",
+    "content": "Problème: Les tubes sont fissurés ou cassés.\nCause probable: Les tubes deviennent fragiles avec l'âge et l'utilisation.\nSolution: Jeter les tubes périmés et en utiliser de nouveaux.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_180",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "L'interrupteur principal est sur ON mais la centrifugeuse ne fonctionne pas.",
+    "cause": "L'appareil n'est pas alimenté.",
+    "solution": "Vérifier l'alimentation électrique.",
+    "content": "Problème: L'interrupteur principal est sur ON mais la centrifugeuse ne fonctionne pas.\nCause probable: L'appareil n'est pas alimenté.\nSolution: Vérifier l'alimentation électrique.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_181",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "Le couvercle de la centrifugeuse ne s'ouvre pas.",
+    "cause": "La centrifugeuse est sur OFF.",
+    "solution": "Mettre la centrifugeuse sur ON. Appuyer sur la poignée et ouvrir le couvercle.",
+    "content": "Problème: Le couvercle de la centrifugeuse ne s'ouvre pas.\nCause probable: La centrifugeuse est sur OFF.\nSolution: Mettre la centrifugeuse sur ON. Appuyer sur la poignée et ouvrir le couvercle.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_182",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "Le témoin de déséquilibre est activé.",
+    "cause": "La charge à centrifuger n'est pas équilibrée.",
+    "solution": "Equilibrer la charge.",
+    "content": "Problème: Le témoin de déséquilibre est activé.\nCause probable: La charge à centrifuger n'est pas équilibrée.\nSolution: Equilibrer la charge.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_183",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "Le témoin de déséquilibre est activé.",
+    "cause": "La centrifugeuse n'est pas de niveau.",
+    "solution": "Mettre la centrifugeuse de niveau.",
+    "content": "Problème: Le témoin de déséquilibre est activé.\nCause probable: La centrifugeuse n'est pas de niveau.\nSolution: Mettre la centrifugeuse de niveau.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_184",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "Il y a des vibrations à faible vitesse.",
+    "cause": "Le mécanisme d'ajustement du rotor a du jeu.",
+    "solution": "Ajuster correctement le système de fixation du rotor",
+    "content": "Problème: Il y a des vibrations à faible vitesse.\nCause probable: Le mécanisme d'ajustement du rotor a du jeu.\nSolution: Ajuster correctement le système de fixation du rotor",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_185",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "Il y a des vibrations à faible vitesse.",
+    "cause": "La charge n'est pas équilibrée.",
+    "solution": "Vérifier l'équilibrage de la charge à centrifuger.",
+    "content": "Problème: Il y a des vibrations à faible vitesse.\nCause probable: La charge n'est pas équilibrée.\nSolution: Vérifier l'équilibrage de la charge à centrifuger.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_186",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "Il y a des vibrations à faible vitesse.",
+    "cause": "La vitesse choisie est proche de la fréquence de résonance du rotor.",
+    "solution": "Choisir une vitesse plus élevée ou utiliser un autre type de rotor.",
+    "content": "Problème: Il y a des vibrations à faible vitesse.\nCause probable: La vitesse choisie est proche de la fréquence de résonance du rotor.\nSolution: Choisir une vitesse plus élevée ou utiliser un autre type de rotor.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_187",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "La vitesse de rotation est variable.",
+    "cause": "Les courroies de transmission sont en mauvais état (\\*).",
+    "solution": "Eteindre la centrifugeuse. Vérifier la tension et l'état des courroies. Les courroies doivent être bien tendues.",
+    "content": "Problème: La vitesse de rotation est variable.\nCause probable: Les courroies de transmission sont en mauvais état (\\*).\nSolution: Eteindre la centrifugeuse. Vérifier la tension et l'état des courroies. Les courroies doivent être bien tendues.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_188",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "La vitesse de rotation n'atteint pas la valeur sélectionnée.",
+    "cause": "Les charbons sont défectueux.",
+    "solution": "Eteindre la centrifugeuse. Vérifier l'état des charbons. Si c'est la cause du problème, remplacer les charbons par de nouveaux ayant les mêmes caractéristiques que les charbons d'origine.",
+    "content": "Problème: La vitesse de rotation n'atteint pas la valeur sélectionnée.\nCause probable: Les charbons sont défectueux.\nSolution: Eteindre la centrifugeuse. Vérifier l'état des charbons. Si c'est la cause du problème, remplacer les charbons par de nouveaux ayant les mêmes caractéristiques que les charbons d'origine.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_189",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "La vitesse de rotation n'atteint pas la valeur sélectionnée.",
+    "cause": "Le réglage de la vitesse est mal étalonné.",
+    "solution": "Etalonner le réglage de la vitesse.",
+    "content": "Problème: La vitesse de rotation n'atteint pas la valeur sélectionnée.\nCause probable: Le réglage de la vitesse est mal étalonné.\nSolution: Etalonner le réglage de la vitesse.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_190",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "La cuve est froide mais le rotor est chaud.",
+    "cause": "La température n'est pas correctement sélectionnée.",
+    "solution": "Vérifier la sélection de la température.",
+    "content": "Problème: La cuve est froide mais le rotor est chaud.\nCause probable: La température n'est pas correctement sélectionnée.\nSolution: Vérifier la sélection de la température.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_191",
+    "type": "troubleshooting",
+    "section": "Systèmes divers",
+    "subsection": "Rotors¹",
+    "problem": "L'indicateur d'état des charbons est allumé.",
+    "cause": "Les charbons sont en mauvais état.",
+    "solution": "Eteindre la centrifugeuse. Vérifier l'état des charbons. Remplacer les charbons par de nouveaux ayant les mêmes caractéristiques.",
+    "content": "Problème: L'indicateur d'état des charbons est allumé.\nCause probable: Les charbons sont en mauvais état.\nSolution: Eteindre la centrifugeuse. Vérifier l'état des charbons. Remplacer les charbons par de nouveaux ayant les mêmes caractéristiques.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_192",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : de temps à autre",
+    "problem": "Le distillateur ne produit pas d'eau distillée.",
+    "cause": "Il n'y a pas d'alimentation électrique.",
+    "solution": "Vérifier que le câble d'alimentation électrique est correctement branché.<br/>Vérifier qu'il y a du courant dans le circuit électrique qui alimente le distillateur.<br/>Vérifier que l'interrupteur principal est sur ON.<br/>Contrôler qu'il y a de l'eau dans le générateur de vapeur ou le bouilleur.",
+    "content": "Problème: Le distillateur ne produit pas d'eau distillée.\nCause probable: Il n'y a pas d'alimentation électrique.\nSolution: Vérifier que le câble d'alimentation électrique est correctement branché.<br/>Vérifier qu'il y a du courant dans le circuit électrique qui alimente le distillateur.<br/>Vérifier que l'interrupteur principal est sur ON.<br/>Contrôler qu'il y a de l'eau dans le générateur de vapeur ou le bouilleur.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_193",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : de temps à autre",
+    "problem": "Le distillateur ne produit pas d'eau distillée.",
+    "cause": "La résistance à immersion est hors service.",
+    "solution": "Vérifier l'intégrité de la résistance à immersion. Mesurer le passage du courant électrique ou la résistance en ohms. Remplacer la résistance par une autre ayant les mêmes caractéristiques.",
+    "content": "Problème: Le distillateur ne produit pas d'eau distillée.\nCause probable: La résistance à immersion est hors service.\nSolution: Vérifier l'intégrité de la résistance à immersion. Mesurer le passage du courant électrique ou la résistance en ohms. Remplacer la résistance par une autre ayant les mêmes caractéristiques.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_194",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : de temps à autre",
+    "problem": "Il y a de l'eau autour du distillateur.",
+    "cause": "Le montage du distillateur ou de certains de ses éléments est défectueux.",
+    "solution": "Contrôler le filtre pour vérifier qu'il est bien installé et que l'eau passe au travers.<br/>Vérifier que le récipient de stockage du distillat est bien positionné.<br/>Vérifier que le dispositif de vidange ne fuit pas.",
+    "content": "Problème: Il y a de l'eau autour du distillateur.\nCause probable: Le montage du distillateur ou de certains de ses éléments est défectueux.\nSolution: Contrôler le filtre pour vérifier qu'il est bien installé et que l'eau passe au travers.<br/>Vérifier que le récipient de stockage du distillat est bien positionné.<br/>Vérifier que le dispositif de vidange ne fuit pas.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_195",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : de temps à autre",
+    "problem": "Il y a de la vapeur autour du distillateur.",
+    "cause": "La ventilation du distillateur est insuffisante.",
+    "solution": "Vérifier qu'il y a un espace libre autour du distillateur et derrière.<br/>Vérifier qu'aucun objet ne gêne la circulation de l'air autour du distillateur.<br/>Enlever tout objet gênant la circulation de l'air.",
+    "content": "Problème: Il y a de la vapeur autour du distillateur.\nCause probable: La ventilation du distillateur est insuffisante.\nSolution: Vérifier qu'il y a un espace libre autour du distillateur et derrière.<br/>Vérifier qu'aucun objet ne gêne la circulation de l'air autour du distillateur.<br/>Enlever tout objet gênant la circulation de l'air.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_196",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : de temps à autre",
+    "problem": "Il y a de la vapeur autour du distillateur.",
+    "cause": "La ventilation du système de réfrigération ne fonctionne pas.",
+    "solution": "Vérifier l'état du ventilateur. S'il est sur ON et ne fonctionne pas, le remplacer par un autre ayant les mêmes caractéristiques.",
+    "content": "Problème: Il y a de la vapeur autour du distillateur.\nCause probable: La ventilation du système de réfrigération ne fonctionne pas.\nSolution: Vérifier l'état du ventilateur. S'il est sur ON et ne fonctionne pas, le remplacer par un autre ayant les mêmes caractéristiques.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  },
+  {
+    "id": "table_chunk_197",
+    "type": "troubleshooting",
+    "section": "GUIDE DE DÉPANNAGE",
+    "subsection": "Fréquence : de temps à autre",
+    "problem": "L'eau distillée a une odeur.",
+    "cause": "Le filtre à charbon est usé.",
+    "solution": "Remplacer le filtre à charbon actif.",
+    "content": "Problème: L'eau distillée a une odeur.\nCause probable: Le filtre à charbon est usé.\nSolution: Remplacer le filtre à charbon actif.",
+    "metadata": {
+      "source": "tables.md",
+      "category": "dépannage"
+    }
+  }
+]
