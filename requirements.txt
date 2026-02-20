@@ -54,6 +54,9 @@ prometheus-client
 # Testing
 pytest
 pytest-asyncio
+pytest-cov
+httpx
+flake8
 
 # PDF processing dependencies (optional)
 # unstructured[pdf]
