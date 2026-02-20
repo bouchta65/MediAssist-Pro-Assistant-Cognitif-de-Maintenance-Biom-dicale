@@ -1,0 +1,65 @@
+# FastAPI & Web
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+python-dotenv
+httpx
+tenacity
+
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# Authentication
+passlib[bcrypt]
+python-jose[cryptography]
+requests
+authlib
+itsdangerous
+
+# LangChain
+langchain
+langchain-community
+langchain-text-splitters
+
+# Embeddings & ML
+sentence-transformers
+transformers
+torch
+
+# Vector Databases
+chromadb
+faiss-cpu
+
+# PDF Processing
+pypdf
+pdfplumber
+python-multipart
+PyMuPDF
+
+# RAG & LLM
+ollama
+rank-bm25
+google-generativeai
+
+# Logging
+loguru
+
+# MLOps & Monitoring
+mlflow
+prometheus-client
+
+# Testing
+pytest
+pytest-asyncio
+
+# PDF processing dependencies (optional)
+# unstructured[pdf]
+# unstructured-inference
+# poppler-utils
+# tesseract
+# pytesseract
+# pillow
+# protobuf==3.20.3
