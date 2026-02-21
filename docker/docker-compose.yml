@@ -106,7 +106,7 @@ services:
     restart: always
     privileged: true
     ports:
-      - "8080:8080"
+      - "8081:8080"
     volumes:
       - /:/rootfs:ro
       - /var/run:/var/run:ro

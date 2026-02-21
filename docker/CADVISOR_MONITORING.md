@@ -22,7 +22,7 @@ cAdvisor (Container Advisor) has been added to monitor resource usage and perfor
 
 Once the containers are running, access cAdvisor at:
 ```
-http://localhost:8080
+http://localhost:8081
 ```
 
 ## Configuration
@@ -34,7 +34,7 @@ cadvisor:
   container_name: mediassist-cadvisor
   privileged: true
   ports:
-    - "8080:8080"
+    - "8081:8080"
   volumes:
     - /:/rootfs:ro
     - /var/run:/var/run:ro
@@ -69,7 +69,7 @@ docker-compose up -d
 ```
 
 ### View Container Metrics
-1. Navigate to http://localhost:8080
+1. Navigate to http://localhost:8081
 2. Click on "Docker Containers"
 3. Select a container to view detailed metrics
 
