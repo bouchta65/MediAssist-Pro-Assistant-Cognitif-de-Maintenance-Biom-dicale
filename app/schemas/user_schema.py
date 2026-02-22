@@ -9,7 +9,7 @@ class UserBase(BaseModel):
 
 
 class UserCreate(UserBase):
-    password: Optional[str] = None  # Optional for OAuth users
+    password: Optional[str] = None
     google_id: Optional[str] = None
     is_oauth: bool = False
 

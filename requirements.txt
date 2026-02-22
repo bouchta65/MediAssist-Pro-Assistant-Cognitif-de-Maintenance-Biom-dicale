@@ -50,6 +50,7 @@ loguru
 # MLOps & Monitoring
 mlflow
 prometheus-client
+deepeval
 
 # Testing
 pytest
