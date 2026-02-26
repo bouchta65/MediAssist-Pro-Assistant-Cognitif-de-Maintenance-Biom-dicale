@@ -8,7 +8,6 @@ from deepeval.test_case import LLMTestCase
 def test_rag_answer_relevance():
     """Test si la réponse est pertinente à la question"""
     
-    # Exemple simple
     question = "Comment nettoyer un spectrophotomètre?"
     answer = "Pour nettoyer un spectrophotomètre, utilisez un chiffon doux et de l'alcool isopropylique."
     
@@ -51,4 +50,4 @@ if __name__ == "__main__":
     print("\nTest Faithfulness...")
     test_rag_faithfulness()
     
-    print("\n✅ Tous les tests RAG passés!")
+    print("\n Tous les tests RAG passés!")
