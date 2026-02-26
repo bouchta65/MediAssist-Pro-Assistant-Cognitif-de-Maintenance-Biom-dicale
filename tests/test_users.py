@@ -21,7 +21,6 @@ class TestUserEndpoints:
             "full_name": "Test User"
         }
         response = client.post("/api/users/register", json=user_data)
-        # Should return success or conflict if user exists
         assert response.status_code in [200, 201, 409]
 
     def test_invalid_email_format(self):
@@ -32,4 +31,4 @@ class TestUserEndpoints:
             "full_name": "Test User"
         }
         response = client.post("/api/users/register", json=user_data)
-        assert response.status_code == 422  # Validation error
+        assert response.status_code == 422  
