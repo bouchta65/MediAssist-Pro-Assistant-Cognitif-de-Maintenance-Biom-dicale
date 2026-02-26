@@ -27,7 +27,7 @@ class TestQueryEndpoints:
             "user_id": 1
         }
         response = client.post("/api/queries/", json=query_data)
-        assert response.status_code == 422  # Validation error
+        assert response.status_code == 422  
 
     def test_get_query_history(self):
         """Test retrieving query history"""
