@@ -3,10 +3,10 @@ from sentence_transformers import SentenceTransformer
 from rank_bm25 import BM25Okapi
 import mlflow
 
-mlflow.set_tracking_uri("http://mlflow:5000")
+mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("Retrieval")
 
-DB_DIR = "data/chroma_db"
+DB_DIR = "../../data/chroma_db"
 MODEL_NAME = "intfloat/multilingual-e5-base"
 
 model = SentenceTransformer(MODEL_NAME)
