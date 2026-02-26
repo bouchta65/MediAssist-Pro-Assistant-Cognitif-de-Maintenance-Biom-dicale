@@ -3,10 +3,10 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 import mlflow
 
-mlflow.set_tracking_uri("http://mlflow:5000")
+mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("Embeddings")
 
-DATA_DIR = "data"
+DATA_DIR = "../../../data/chroma_db"
 DB_DIR = "data/chroma_db"
 MODEL_NAME = "intfloat/multilingual-e5-base"
 
