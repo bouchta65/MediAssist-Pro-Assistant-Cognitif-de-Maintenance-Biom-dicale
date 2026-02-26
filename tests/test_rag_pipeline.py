@@ -29,11 +29,9 @@ class TestRAGPipeline:
         """Test basic query processing"""
         query = "Comment fonctionne le dispositif?"
         try:
-            # This should not raise an exception
             result = rag_pipeline.process_query(query)
             assert result is not None
         except Exception as e:
-            # Expected if resources not available in test env
             pytest.skip(f"RAG resources not available: {e}")
 
     def test_embedding_generation(self):
