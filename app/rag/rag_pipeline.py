@@ -2,12 +2,11 @@ import ollama
 from retriever import hybrid_search
 import mlflow
 
-mlflow.set_tracking_uri("http://mlflow:5000")
+mlflow.set_tracking_uri("http://localhost:5000")
 mlflow.set_experiment("RAG_Pipeline")
 
 SYSTEM_PROMPT = """Tu es MediAssist. Tu dois répondre UNIQUEMENT avec les informations du CONTEXTE ci-dessous.
 
-RÈGLES ABSOLUES:
 RÈGLES ABSOLUES:
 1. UTILISE UNIQUEMENT le texte du CONTEXTE - AUCUNE créativité, AUCUNE invention
 2. NE JAMAIS ajouter d'informations qui ne sont pas dans le contexte
@@ -21,14 +20,36 @@ CONTEXTE (5 documents trouvés - utilise TOUS ceux qui sont pertinents):
 
 Question: {question}
 
-Réponds en utilisant UNIQUEMENT les informations du contexte. Liste toutes les informations pertinentes trouvées."""
+Tu dois répondre en utilisant UNIQUEMENT les informations présentes dans la section CONTEXTE ci-dessous.
+
+❗ Interdiction d’utiliser tes connaissances personnelles.
+❗ Interdiction d’ajouter des informations externes.
+❗ Interdiction de faire des suppositions.
+❗ Interdiction de compléter des informations manquantes.
+
+La réponse doit être rédigée sous forme de texte fluide et naturel, comme si elle venait d’un assistant intelligent.
+
+Commence toujours par :
+"Bonjour 👋, voici ce que j’ai trouvé pour vous :"
+
+Ensuite :
+
+Reformule les informations du contexte de manière claire et structurée.
+
+Utilise un ton professionnel et amical.
+
+Intègre naturellement les informations au lieu de faire une simple liste brute.
+
+Ensuite, rédige uniquement les informations disponibles dans le contexte, en copiant ou reformulant strictement ce qui est écrit.
+
+⚠️ Ne jamais ajouter d’exemples, de causes possibles, ni de recommandations personnelles."""
 
 LLM_CONFIG = {
     "model": "llama3",
     "temperature": 0.1,
     "top_p": 0.9,
     "top_k": 40,
-    "num_predict": 512
+    "num_predict": 200
 }
 
 def generate(question, k=5):
@@ -62,6 +83,6 @@ def generate(question, k=5):
     
     return answer
 
-question = "solution de ce problem : La confi guration de la balance ne peut être modifiée à partir du menu."
+question = "what is my name"
 print(f"Question: {question}\n")
 print("Réponse:", generate(question))
