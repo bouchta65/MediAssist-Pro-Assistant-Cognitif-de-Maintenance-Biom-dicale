@@ -32,7 +32,7 @@ def is_image_or_link(line: str) -> bool:
 def is_superscript(line: str) -> bool:
     return re.match(r"^[¹²³⁴⁵⁶⁷⁸⁹⁰]", line.strip()) is not None
 
-# ✅ NEW
+
 def is_only_number_line(line: str) -> bool:
     return re.fullmatch(r"\d+", line.strip()) is not None
 
@@ -64,12 +64,12 @@ def toggle_code_block(line: str, inside_code_block: bool) -> bool:
 
 
 def update_table_state(line: str, inside_table: bool, cleaned: list) -> bool:
-    """
+
     Handle table state:
     - Start table if line starts with |
     - End table if empty line
-    - Remove previous line if it is a subtitle (##) or normal one-line title
-    """
+
+
     if is_table_line(line):
         if cleaned:
             prev = cleaned[-1].strip()

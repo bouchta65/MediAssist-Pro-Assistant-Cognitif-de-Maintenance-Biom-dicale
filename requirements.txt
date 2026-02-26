@@ -50,10 +50,14 @@ loguru
 # MLOps & Monitoring
 mlflow
 prometheus-client
+deepeval
 
 # Testing
 pytest
 pytest-asyncio
+pytest-cov
+httpx
+flake8
 
 # PDF processing dependencies (optional)
 # unstructured[pdf]

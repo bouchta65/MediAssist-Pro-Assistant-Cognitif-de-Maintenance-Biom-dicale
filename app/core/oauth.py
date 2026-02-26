@@ -15,7 +15,6 @@ google = oauth.register(
 )
 
 async def get_google_user_info(request: Request, token):
-    """Get user info from Google OAuth token"""
     try:
         resp = await google.get('https://www.googleapis.com/oauth2/v2/userinfo', token=token)
         user_data = resp.json()
